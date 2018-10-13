@@ -1,0 +1,2 @@
+# automspec
+GitHub Pages
