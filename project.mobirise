@@ -228,7 +228,7 @@
             }
           },
           "text1": "<strong>Address</strong><br>3 Waylett Place\n<br>West Norwood\n<br>London\n<br>SE27 9AE<br><br>\n<strong>Contacts</strong><br>\nEmail: <a href=\"mailto:info@automspec.co.uk\">info@automspec.co.uk</a><br>\nPhone:&nbsp;<a href=\"tel:0208 670 8928\">0208 670 8928</a><br>\nMobile: <a href=\"tel:07958287692\">07958287692</a>",
-          "text2": "<p><b>Opening Times:\n</b></p><p><b>Monday  to Saturday\n</b></p><p><b>&nbsp; &nbsp; &nbsp; 08:00 - 18:00\n</b></p><p><b>Sunday  - Closed</b></p><p><b>Links:</b><br></p><p><b><a href=\"index.html\">Home</a>&nbsp;</b><br></p><p><b><a href=\"page2.html\">Services</a></b></p><p><br></p><p><br></p><p><b><br></b><br></p><p><b><br></b></p><p><b><br></b></p>",
+          "text2": "<p><b>Opening Times:</b></p><p><b>Monday  to Saturday</b></p><p><b>&nbsp; &nbsp; &nbsp;08:00 - 18:00</b></p><p><b>Sunday  - Closed</b><br></p><p><b>Links:</b><br></p><p><b><a href=\"index.html\">Home</a>&nbsp;</b><br></p><p><b><a href=\"page2.html\">Services</a></b></p><p><br></p><p><br></p><p><b><br></b><br></p><p><b><br></b></p><p><b><br></b></p>",
           "_tags": [
             "Theme"
           ],
@@ -403,7 +403,7 @@
             }
           },
           "text1": "<strong>Address</strong><br>3 Waylett Place\n<br>West Norwood\n<br>London\n<br>SE27 9AE<br><br>\n<strong>Contacts</strong><br>\nEmail: <a href=\"mailto:info@automspec.co.uk\">info@automspec.co.uk</a><br>\nPhone:&nbsp;<a href=\"tel:0208 670 8928\">0208 670 8928</a><br>\nMobile: <a href=\"tel:07958287692\">07958287692</a>",
-          "text2": "<p><b>Opening Times:\n</b></p><p><b>Monday  to Saturday\n</b></p><p><b>&nbsp; &nbsp; &nbsp; 08:00 - 18:00\n</b></p><p><b>Sunday  - Closed</b></p><p><b>Links:</b><br></p><p><b><a href=\"index.html\">Home</a>&nbsp;</b><br></p><p><b><a href=\"page2.html\">Services</a></b></p><p><br></p><p><br></p><p><b><br></b><br></p><p><b><br></b></p><p><b><br></b></p>",
+          "text2": "<p><b>Opening Times:</b></p><p><b>Monday  to Saturday</b></p><p><b>&nbsp; &nbsp; &nbsp;08:00 - 18:00</b></p><p><b>Sunday  - Closed</b><br></p><p><b>Links:</b><br></p><p><b><a href=\"index.html\">Home</a>&nbsp;</b><br></p><p><b><a href=\"page2.html\">Services</a></b></p><p><br></p><p><br></p><p><b><br></b><br></p><p><b><br></b></p><p><b><br></b></p>",
           "_tags": [
             "Theme"
           ],
