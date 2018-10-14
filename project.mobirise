@@ -30,10 +30,10 @@
     "favicon": "",
     "noImageResize": "",
     "cookiesAlert": "We use cookies to give you the best experience. Read our <a href='privacy.html'>cookie policy</a>.",
-    "gdpr": "By continiung you agree to our <a href='terms.html'>Terms of Service</a> and <a href='policy.html'>Privacy Policy</a>.",
+    "gdpr": "",
     "google-analytics": "",
     "siteUrl": "undefined",
-    "uniqCompNum": 23,
+    "uniqCompNum": 27,
     "versionPublish": "4.8.1",
     "screenshot": "screenshot.png"
   },
@@ -235,7 +235,7 @@
             }
           },
           "text1": "<p><strong>Address</strong></p><p>9 Waylett Place</p><p><span style=\"font-size: 0.875rem;\">West Norwood</span><br></p><p>London&nbsp;&nbsp;&nbsp;&nbsp;</p><p>SE27 9AE<br><br><strong>Contacts</strong><br>\nEmail: <a href=\"mailto:info@automspec.co.uk\">info@automspec.co.uk</a><br>\nPhone: <a href=\"tel:0208 670 8928\">0208 670 8928</a><br>Mobile: <a href=\"tel:0795 828 7692\">0795 828 7692</a></p>",
-          "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul><li><a href=\"index.html\">Home</a></li><li><a href=\"page2.html\">Services</a></li><li><a href=\"page3.html\">About Us</a></li></ul>",
+          "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul><li><a href=\"index.html\">Home</a></li><li><a href=\"page2.html\">Services</a></li><li><a href=\"page3.html\">About Us</a></li><li><a href=\"page4.html\">Cookies</a></li></ul>",
           "_tags": [
             "Theme"
           ],
@@ -421,7 +421,7 @@
             }
           },
           "text1": "<p><strong>Address</strong></p><p>9 Waylett Place</p><p><span style=\"font-size: 0.875rem;\">West Norwood</span><br></p><p>London&nbsp;&nbsp;&nbsp;&nbsp;</p><p>SE27 9AE<br><br><strong>Contacts</strong><br>\nEmail: <a href=\"mailto:info@automspec.co.uk\">info@automspec.co.uk</a><br>\nPhone: <a href=\"tel:0208 670 8928\">0208 670 8928</a><br>Mobile: <a href=\"tel:0795 828 7692\">0795 828 7692</a></p>",
-          "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul><li><a href=\"index.html\">Home</a></li><li><a href=\"page2.html\">Services</a></li><li><a href=\"page3.html\">About Us</a></li></ul>",
+          "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul><li><a href=\"index.html\">Home</a></li><li><a href=\"page2.html\">Services</a></li><li><a href=\"page3.html\">About Us</a></li><li><a href=\"page4.html\">Cookies</a></li></ul>",
           "_tags": [
             "Theme"
           ],
@@ -607,7 +607,7 @@
             }
           },
           "text1": "<p><strong>Address</strong></p><p>9 Waylett Place</p><p><span style=\"font-size: 0.875rem;\">West Norwood</span><br></p><p>London&nbsp;&nbsp;&nbsp;&nbsp;</p><p>SE27 9AE<br><br><strong>Contacts</strong><br>\nEmail: <a href=\"mailto:info@automspec.co.uk\">info@automspec.co.uk</a><br>\nPhone: <a href=\"tel:0208 670 8928\">0208 670 8928</a><br>Mobile: <a href=\"tel:0795 828 7692\">0795 828 7692</a></p>",
-          "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul><li><a href=\"index.html\">Home</a></li><li><a href=\"page2.html\">Services</a></li><li><a href=\"page3.html\">About Us</a></li></ul>",
+          "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul><li><a href=\"index.html\">Home</a></li><li><a href=\"page2.html\">Services</a></li><li><a href=\"page3.html\">About Us</a></li><li><a href=\"page4.html\">Cookies</a></li></ul>",
           "_tags": [
             "Theme"
           ],
