@@ -33,8 +33,9 @@
     "gdpr": "",
     "google-analytics": "",
     "siteUrl": "undefined",
-    "uniqCompNum": 16,
-    "versionPublish": "4.8.1"
+    "uniqCompNum": 17,
+    "versionPublish": "4.8.1",
+    "screenshot": "screenshot.png"
   },
   "pages": {
     "index.html": {
@@ -210,45 +211,29 @@
         },
         {
           "_params": {
-            "paddingTop": "3",
-            "paddingBottom": "1",
-            "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1920x1280.jpg",
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
-            "bgColorRadio": false,
+            "bgColorRadio": true,
             "bgColor": "#2e2e2e",
             "overlay": true,
-            "overlayColor": "#3c3c3c",
-            "overlayOpacity": "0.6",
+            "overlayColor": "#3C3C3C",
+            "overlayOpacity": 0.8,
             "googleMap": {
-              "address": "3 Waylett Place\nWest Norwood\nLondon\n\nSE27 9AE",
-              "placeId": "ChIJD8qDSAMEdkgRtxO5t4p1-GU",
-              "state": "ok",
-              "stateDetails": ""
+              "placeId": "ChIJn6wOs6lZwokRLKy1iqRcoKw",
+              "address": "350 5th Ave, New York, NY 10118",
+              "state": "ok"
             }
           },
-          "text1": "<strong>Address</strong><br>3 Waylett Place\n<br>West Norwood\n<br>London\n<br>SE27 9AE<br><br>\n<strong>Contacts</strong><br>\nEmail: <a href=\"mailto:info@automspec.co.uk\">info@automspec.co.uk</a><br>\nPhone:&nbsp;<a href=\"tel:0208 670 8928\">0208 670 8928</a><br>\nMobile: <a href=\"tel:07958287692\">07958287692</a>",
-          "text2": "<p><b>Opening Times:</b></p><p><b>Monday  to Saturday</b></p><p><b>&nbsp; &nbsp; &nbsp;08:00 - 18:00</b></p><p><b>Sunday  - Closed</b><br></p><p><b>Links:</b><br></p><p><b><a href=\"index.html\">Home</a>&nbsp;</b><br></p><p><b><a href=\"page2.html\">Services</a></b></p><p><br></p><p><br></p><p><b><br></b><br></p><p><b><br></b></p><p><b><br></b></p>",
+          "text1": "<p><strong>Address</strong><br><br>9 Waylett Place&nbsp;<br>West Norwood<br>London&nbsp;&nbsp;&nbsp;&nbsp;</p><p>SE27 9AE<br><br><br><br>\n<strong>Contacts</strong><br>\nEmail: info@automspec.co.uk<br>\nPhone: 0208 670 8928<br>Mobile: 0795 828 7692</p>",
+          "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul><li><a class=\"text-white\" href=\"https://mobirise.com/\">Website builder</a></li><li><a class=\"text-white\" href=\"https://mobirise.com/mobirise-free-win.zip\">Download for Windows</a></li><li><a class=\"text-white\" href=\"https://mobirise.com/mobirise-free-mac.zip\">Download for Mac</a></li></ul>",
           "_tags": [
             "Theme"
           ],
           "_name": "contacts2",
-          "_anchor": "contacts2-a",
-          "_styles": {
-            "STRONG": {
-              "font-family": "'Oxygen', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
-              "font-size": "20px",
-              "color": "#ffffff"
-            },
-            "P": {
-              "font-family": "'Oxygen', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
-              "font-size": "16px",
-              "color": "#ffffff",
-              "text-align": "left"
-            }
-          }
+          "_anchor": "contacts2-g"
         }
       ]
     },
@@ -385,45 +370,29 @@
         },
         {
           "_params": {
-            "paddingTop": "3",
-            "paddingBottom": "1",
-            "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1920x1280.jpg",
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
-            "bgColorRadio": false,
+            "bgColorRadio": true,
             "bgColor": "#2e2e2e",
             "overlay": true,
-            "overlayColor": "#3c3c3c",
-            "overlayOpacity": "0.6",
+            "overlayColor": "#3C3C3C",
+            "overlayOpacity": 0.8,
             "googleMap": {
-              "address": "3 Waylett Place\nWest Norwood\nLondon\n\nSE27 9AE",
-              "placeId": "ChIJD8qDSAMEdkgRtxO5t4p1-GU",
-              "state": "ok",
-              "stateDetails": ""
+              "placeId": "ChIJn6wOs6lZwokRLKy1iqRcoKw",
+              "address": "350 5th Ave, New York, NY 10118",
+              "state": "ok"
             }
           },
-          "text1": "<strong>Address</strong><br>3 Waylett Place\n<br>West Norwood\n<br>London\n<br>SE27 9AE<br><br>\n<strong>Contacts</strong><br>\nEmail: <a href=\"mailto:info@automspec.co.uk\">info@automspec.co.uk</a><br>\nPhone:&nbsp;<a href=\"tel:0208 670 8928\">0208 670 8928</a><br>\nMobile: <a href=\"tel:07958287692\">07958287692</a>",
-          "text2": "<p><b>Opening Times:</b></p><p><b>Monday  to Saturday</b></p><p><b>&nbsp; &nbsp; &nbsp;08:00 - 18:00</b></p><p><b>Sunday  - Closed</b><br></p><p><b>Links:</b><br></p><p><b><a href=\"index.html\">Home</a>&nbsp;</b><br></p><p><b><a href=\"page2.html\">Services</a></b></p><p><br></p><p><br></p><p><b><br></b><br></p><p><b><br></b></p><p><b><br></b></p>",
+          "text1": "<p><strong>Address</strong><br><br>9 Waylett Place&nbsp;<br>West Norwood<br>London&nbsp;&nbsp;&nbsp;&nbsp;</p><p>SE27 9AE<br><br><br><br>\n<strong>Contacts</strong><br>\nEmail: info@automspec.co.uk<br>\nPhone: 0208 670 8928<br>Mobile: 0795 828 7692</p>",
+          "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul><li><a class=\"text-white\" href=\"https://mobirise.com/\">Website builder</a></li><li><a class=\"text-white\" href=\"https://mobirise.com/mobirise-free-win.zip\">Download for Windows</a></li><li><a class=\"text-white\" href=\"https://mobirise.com/mobirise-free-mac.zip\">Download for Mac</a></li></ul>",
           "_tags": [
             "Theme"
           ],
           "_name": "contacts2",
-          "_styles": {
-            "STRONG": {
-              "font-family": "'Oxygen', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
-              "font-size": "20px",
-              "color": "#ffffff"
-            },
-            "P": {
-              "font-family": "'Oxygen', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
-              "font-size": "16px",
-              "color": "#ffffff",
-              "text-align": "left"
-            }
-          },
-          "_anchor": "contacts2-e"
+          "_anchor": "contacts2-g"
         }
       ]
     }

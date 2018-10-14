@@ -7,8 +7,6 @@
 
 
 
-
-
 body,
 input,
 textarea,
@@ -497,19 +495,6 @@ h6,
   font-family: 'Oxygen', sans-serif;
   font-size: 15px;
 }
-#contacts2-a STRONG {
-  font-family: 'Oxygen', sans-serif;
-  font-size: 20px;
-  color: #ffffff;
-}
-#contacts2-a P {
-  font-family: 'Oxygen', sans-serif;
-  font-size: 16px;
-  color: #ffffff;
-  text-align: left;
-}
-
-
 
 #ext_menu-c .hide-buttons .nav-btn {
   display: none !important;
@@ -573,15 +558,4 @@ h6,
 #ext_menu-c .link[aria-expanded="true"],
 #ext_menu-c .dropdown-item[aria-expanded="true"] {
   color: #c0a375!important;
-}
-#contacts2-e STRONG {
-  font-family: 'Oxygen', sans-serif;
-  font-size: 20px;
-  color: #ffffff;
-}
-#contacts2-e P {
-  font-family: 'Oxygen', sans-serif;
-  font-size: 16px;
-  color: #ffffff;
-  text-align: left;
 }
