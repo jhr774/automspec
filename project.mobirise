@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "automspec.co.uk",
-    "currentPage": "page3.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise3",
@@ -190,7 +190,7 @@
             }
           },
           "title": "Automobile Specialists<br>West Norwood",
-          "text": "<b>Mechanical Reapirs &amp; Body Work.</b>",
+          "text": "<b>Mechanical Repairs &amp; Body Work.</b>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-info\" href=\"page2.html\" data-toolbar=\"-mbrBtnMove\">Services Provided</a>",
           "_tags": [
             "Theme"
