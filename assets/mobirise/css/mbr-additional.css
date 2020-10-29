@@ -490,7 +490,7 @@ h6,
 }
 #msg-box5-1 B {
   font-family: 'Oxygen', sans-serif;
-  font-size: 30px;
+  font-size: 25px;
 }
 #msg-box5-1 H3 {
   font-family: 'Oxygen', sans-serif;
@@ -499,7 +499,10 @@ h6,
 }
 #msg-box5-1 .btn {
   font-family: 'Oxygen', sans-serif;
-  font-size: 15px;
+  font-size: 22px;
+}
+#msg-box5-1 P {
+  text-align: center;
 }
 
 

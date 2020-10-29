@@ -45,7 +45,7 @@
     "google-analytics": "",
     "siteUrl": "undefined",
     "uniqCompNum": 27,
-    "versionPublish": "5.0.22",
+    "versionPublish": "5.2.0",
     "screenshot": "screenshot.png",
     "imageResize": true,
     "publishChangesOnly": true
@@ -214,7 +214,7 @@
             "B": {
               "font-family": "'Oxygen', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
-              "font-size": "30px"
+              "font-size": "25px"
             },
             "H3": {
               "font-family": "'Oxygen', sans-serif",
@@ -225,7 +225,10 @@
             ".btn": {
               "font-family": "'Oxygen', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
-              "font-size": "15px"
+              "font-size": "22px"
+            },
+            "P": {
+              "text-align": "center"
             }
           }
         },
