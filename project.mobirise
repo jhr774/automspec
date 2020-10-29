@@ -48,7 +48,7 @@
     "versionPublish": "5.2.0",
     "screenshot": "screenshot.png",
     "imageResize": true,
-    "publishChangesOnly": false
+    "publishChangesOnly": true
   },
   "pages": {
     "index.html": {
@@ -80,7 +80,7 @@
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Home</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page2.html\">Services</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page3.html\">About Us</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Home</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -252,7 +252,7 @@
             }
           },
           "text1": "<p><strong>Address</strong></p><p>9 Waylett Place</p><p><span style=\"font-size: 0.875rem;\">West Norwood</span><br></p><p>London&nbsp;&nbsp;&nbsp;&nbsp;</p><p>SE27 9AE<br><br><strong>Contacts</strong><br>\nEmail: <a href=\"mailto:info@automspec.co.uk\">info@automspec.co.uk</a><br>Mobile: <a href=\"tel:0795 828 7692\">0795 828 7692</a></p>",
-          "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul><li><a href=\"index.html\">Home</a></li><li><a href=\"page2.html\">Services</a></li><li><a href=\"page3.html\">About Us</a></li><li><a href=\"page4.html\">Cookies</a></li></ul>",
+          "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul><li><a href=\"index.html\">Home</a></li></ul>",
           "_tags": [
             "Theme"
           ],
@@ -310,7 +310,7 @@
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Home</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page2.html\">Services</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page3.html\">About Us</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Home</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -438,7 +438,7 @@
             }
           },
           "text1": "<p><strong>Address</strong></p><p>9 Waylett Place</p><p><span style=\"font-size: 0.875rem;\">West Norwood</span><br></p><p>London&nbsp;&nbsp;&nbsp;&nbsp;</p><p>SE27 9AE<br><br><strong>Contacts</strong><br>\nEmail: <a href=\"mailto:info@automspec.co.uk\">info@automspec.co.uk</a><br>Mobile: <a href=\"tel:0795 828 7692\">0795 828 7692</a></p>",
-          "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul><li><a href=\"index.html\">Home</a></li><li><a href=\"page2.html\">Services</a></li><li><a href=\"page3.html\">About Us</a></li><li><a href=\"page4.html\">Cookies</a></li></ul>",
+          "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul><li><a href=\"index.html\">Home</a></li></ul>",
           "_tags": [
             "Theme"
           ],
@@ -496,7 +496,7 @@
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Home</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page2.html\">Services</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page3.html\">About Us</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Home</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -624,7 +624,7 @@
             }
           },
           "text1": "<p><strong>Address</strong></p><p>9 Waylett Place</p><p><span style=\"font-size: 0.875rem;\">West Norwood</span><br></p><p>London&nbsp;&nbsp;&nbsp;&nbsp;</p><p>SE27 9AE<br><br><strong>Contacts</strong><br>\nEmail: <a href=\"mailto:info@automspec.co.uk\">info@automspec.co.uk</a><br>Mobile: <a href=\"tel:0795 828 7692\">0795 828 7692</a></p>",
-          "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul><li><a href=\"index.html\">Home</a></li><li><a href=\"page2.html\">Services</a></li><li><a href=\"page3.html\">About Us</a></li><li><a href=\"page4.html\">Cookies</a></li></ul>",
+          "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul><li><a href=\"index.html\">Home</a></li></ul>",
           "_tags": [
             "Theme"
           ],
